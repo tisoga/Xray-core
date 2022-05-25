@@ -6,6 +6,8 @@ import (
 	"strings"
 	"time"
 
+	"golang.org/x/net/dns/dnsmessage"
+
 	"github.com/xtls/xray-core/common"
 	"github.com/xtls/xray-core/common/errors"
 	"github.com/xtls/xray-core/common/log"
@@ -13,7 +15,6 @@ import (
 	"github.com/xtls/xray-core/common/session"
 	"github.com/xtls/xray-core/core"
 	dns_feature "github.com/xtls/xray-core/features/dns"
-	"golang.org/x/net/dns/dnsmessage"
 )
 
 // Fqdn normalizes domain make sure it ends with '.'
