@@ -36,7 +36,7 @@ require (
 	google.golang.org/protobuf v1.28.1
 	gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c
 	h12.io/socks v1.0.3
-	inet.af/netaddr v0.0.0-20211027220019-c74959edd3b6
+	inet.af/netaddr v0.0.0-20220811202034-502d2d690317
 )
 
 require (
@@ -56,8 +56,8 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
-	go4.org/intern v0.0.0-20211027215823-ae77deb06f29 // indirect
-	go4.org/unsafe/assume-no-moving-gc v0.0.0-20211027215541-db492cf91b37 // indirect
+	go4.org/intern v0.0.0-20220617035311-6925f38cc365 // indirect
+	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/exp v0.0.0-20221217163422-3c43f8badb15 // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
