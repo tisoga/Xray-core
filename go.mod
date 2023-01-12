@@ -3,7 +3,7 @@ module github.com/xtls/xray-core
 go 1.19
 
 require (
-	github.com/djoeni/websocket v0.7.2
+	github.com/djoeni/websocket v0.7.3
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
