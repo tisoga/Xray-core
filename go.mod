@@ -1,6 +1,6 @@
 module github.com/xtls/xray-core
 
-go 1.20
+go 1.19
 
 require (
 	github.com/djoeni/websocket v0.7.3
